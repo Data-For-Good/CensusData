@@ -1,0 +1,5282 @@
+[
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K0A",
+   "Total": 80430,
+   "Total Income": 4445814000,
+   "Net Income": 4033826000,
+   "Taxable Income": 3942578000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K0B",
+   "Total": 17170,
+   "Total Income": 725039000,
+   "Net Income": 665881000,
+   "Taxable Income": 636030000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K0C",
+   "Total": 42460,
+   "Total Income": 1863335000,
+   "Net Income": 1716546000,
+   "Taxable Income": 1650369000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K0E",
+   "Total": 31150,
+   "Total Income": 1336253000,
+   "Net Income": 1231031000,
+   "Taxable Income": 1183939000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K0G",
+   "Total": 29510,
+   "Total Income": 1416081000,
+   "Net Income": 1292834000,
+   "Taxable Income": 1257761000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K0H",
+   "Total": 35310,
+   "Total Income": 1655971000,
+   "Net Income": 1507957000,
+   "Taxable Income": 1460101000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K0J",
+   "Total": 27430,
+   "Total Income": 1137128000,
+   "Net Income": 1041300000,
+   "Taxable Income": 999872000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K0K",
+   "Total": 90100,
+   "Total Income": 3788246000,
+   "Net Income": 3479554000,
+   "Taxable Income": 3350344000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K0L",
+   "Total": 58700,
+   "Total Income": 2520664000,
+   "Net Income": 2310303000,
+   "Taxable Income": 2219309000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K0M",
+   "Total": 40840,
+   "Total Income": 1712904000,
+   "Net Income": 1571536000,
+   "Taxable Income": 1513251000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K1A",
+   "Total": 70,
+   "Total Income": 7028000,
+   "Net Income": 6294000,
+   "Taxable Income": 6283000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K1B",
+   "Total": 13220,
+   "Total Income": 630263000,
+   "Net Income": 569545000,
+   "Taxable Income": 554909000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K1C",
+   "Total": 30370,
+   "Total Income": 1769067000,
+   "Net Income": 1577755000,
+   "Taxable Income": 1549241000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K1E",
+   "Total": 12370,
+   "Total Income": 663283000,
+   "Net Income": 593097000,
+   "Taxable Income": 583243000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K1G",
+   "Total": 26100,
+   "Total Income": 1277597000,
+   "Net Income": 1160648000,
+   "Taxable Income": 1120850000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K1H",
+   "Total": 12570,
+   "Total Income": 863050000,
+   "Net Income": 776928000,
+   "Taxable Income": 757533000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K1J",
+   "Total": 20800,
+   "Total Income": 1098416000,
+   "Net Income": 991181000,
+   "Taxable Income": 956880000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K1K",
+   "Total": 22880,
+   "Total Income": 987262000,
+   "Net Income": 905920000,
+   "Taxable Income": 852677000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K1L",
+   "Total": 13320,
+   "Total Income": 579050000,
+   "Net Income": 533261000,
+   "Taxable Income": 502734000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K1M",
+   "Total": 5120,
+   "Total Income": 563382000,
+   "Net Income": 511206000,
+   "Taxable Income": 502037000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K1N",
+   "Total": 18870,
+   "Total Income": 1042357000,
+   "Net Income": 943590000,
+   "Taxable Income": 900763000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K1P",
+   "Total": 660,
+   "Total Income": 98616000,
+   "Net Income": 88698000,
+   "Taxable Income": 85288000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K1R",
+   "Total": 13650,
+   "Total Income": 675651000,
+   "Net Income": 616834000,
+   "Taxable Income": 589082000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K1S",
+   "Total": 21210,
+   "Total Income": 1738431000,
+   "Net Income": 1566614000,
+   "Taxable Income": 1533860000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K1T",
+   "Total": 25750,
+   "Total Income": 1220372000,
+   "Net Income": 1108072000,
+   "Taxable Income": 1073126000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K1V",
+   "Total": 40380,
+   "Total Income": 2066449000,
+   "Net Income": 1864034000,
+   "Taxable Income": 1800506000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K1W",
+   "Total": 7400,
+   "Total Income": 465425000,
+   "Net Income": 417676000,
+   "Taxable Income": 410245000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K1X",
+   "Total": 680,
+   "Total Income": 33535000,
+   "Net Income": 30501000,
+   "Taxable Income": 29370000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K1Y",
+   "Total": 15010,
+   "Total Income": 1051397000,
+   "Net Income": 946400000,
+   "Taxable Income": 921965000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K1Z",
+   "Total": 15980,
+   "Total Income": 822714000,
+   "Net Income": 750049000,
+   "Taxable Income": 716571000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K2A",
+   "Total": 13160,
+   "Total Income": 982568000,
+   "Net Income": 887483000,
+   "Taxable Income": 870788000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K2B",
+   "Total": 24550,
+   "Total Income": 1029622000,
+   "Net Income": 946621000,
+   "Taxable Income": 904505000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K2C",
+   "Total": 20900,
+   "Total Income": 1044109000,
+   "Net Income": 948255000,
+   "Taxable Income": 924343000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K2E",
+   "Total": 15090,
+   "Total Income": 764888000,
+   "Net Income": 693774000,
+   "Taxable Income": 673941000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K2G",
+   "Total": 37140,
+   "Total Income": 2053265000,
+   "Net Income": 1851974000,
+   "Taxable Income": 1812044000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K2H",
+   "Total": 20830,
+   "Total Income": 1250628000,
+   "Net Income": 1129511000,
+   "Taxable Income": 1105607000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K2J",
+   "Total": 50070,
+   "Total Income": 2776636000,
+   "Net Income": 2499392000,
+   "Taxable Income": 2459789000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K2K",
+   "Total": 18540,
+   "Total Income": 1209656000,
+   "Net Income": 1085205000,
+   "Taxable Income": 1065481000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K2L",
+   "Total": 15040,
+   "Total Income": 761908000,
+   "Net Income": 688124000,
+   "Taxable Income": 673279000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K2M",
+   "Total": 19840,
+   "Total Income": 1192307000,
+   "Net Income": 1069409000,
+   "Taxable Income": 1055520000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K2P",
+   "Total": 13130,
+   "Total Income": 756857000,
+   "Net Income": 691380000,
+   "Taxable Income": 667621000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K2R",
+   "Total": 1020,
+   "Total Income": 107548000,
+   "Net Income": 98977000,
+   "Taxable Income": 94464000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K2S",
+   "Total": 23920,
+   "Total Income": 1579095000,
+   "Net Income": 1418516000,
+   "Taxable Income": 1397332000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K2T",
+   "Total": 6740,
+   "Total Income": 443767000,
+   "Net Income": 398750000,
+   "Taxable Income": 391354000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K2V",
+   "Total": 1730,
+   "Total Income": 97711000,
+   "Net Income": 88369000,
+   "Taxable Income": 86629000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K2W",
+   "Total": 5920,
+   "Total Income": 412305000,
+   "Net Income": 370409000,
+   "Taxable Income": 365411000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K4A",
+   "Total": 40260,
+   "Total Income": 2349145000,
+   "Net Income": 2104004000,
+   "Taxable Income": 2075472000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K4B",
+   "Total": 3880,
+   "Total Income": 229901000,
+   "Net Income": 208262000,
+   "Taxable Income": 203171000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K4C",
+   "Total": 3600,
+   "Total Income": 250948000,
+   "Net Income": 225778000,
+   "Taxable Income": 220525000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K4K",
+   "Total": 12010,
+   "Total Income": 601958000,
+   "Net Income": 545716000,
+   "Taxable Income": 534244000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K4M",
+   "Total": 9040,
+   "Total Income": 744126000,
+   "Net Income": 671880000,
+   "Taxable Income": 661368000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K4P",
+   "Total": 7540,
+   "Total Income": 534840000,
+   "Net Income": 482068000,
+   "Taxable Income": 473048000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K4R",
+   "Total": 5690,
+   "Total Income": 320354000,
+   "Net Income": 288006000,
+   "Taxable Income": 283822000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K6A",
+   "Total": 10820,
+   "Total Income": 395227000,
+   "Net Income": 364819000,
+   "Taxable Income": 338849000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K6H",
+   "Total": 25030,
+   "Total Income": 854141000,
+   "Net Income": 789384000,
+   "Taxable Income": 738399000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K6J",
+   "Total": 14240,
+   "Total Income": 486899000,
+   "Net Income": 452609000,
+   "Taxable Income": 423302000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K6K",
+   "Total": 2500,
+   "Total Income": 101522000,
+   "Net Income": 93924000,
+   "Taxable Income": 91280000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K6T",
+   "Total": 540,
+   "Total Income": 25263000,
+   "Net Income": 22697000,
+   "Taxable Income": 22308000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K6V",
+   "Total": 22680,
+   "Total Income": 987763000,
+   "Net Income": 905820000,
+   "Taxable Income": 865922000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K7A",
+   "Total": 13360,
+   "Total Income": 520740000,
+   "Net Income": 481662000,
+   "Taxable Income": 459224000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K7C",
+   "Total": 13750,
+   "Total Income": 670135000,
+   "Net Income": 611259000,
+   "Taxable Income": 595855000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K7G",
+   "Total": 6930,
+   "Total Income": 334214000,
+   "Net Income": 306990000,
+   "Taxable Income": 298469000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K7H",
+   "Total": 12750,
+   "Total Income": 588176000,
+   "Net Income": 535258000,
+   "Taxable Income": 517424000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K7K",
+   "Total": 23180,
+   "Total Income": 930657000,
+   "Net Income": 853749000,
+   "Taxable Income": 803948000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K7L",
+   "Total": 13620,
+   "Total Income": 867190000,
+   "Net Income": 787643000,
+   "Taxable Income": 767099000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K7M",
+   "Total": 36740,
+   "Total Income": 1727133000,
+   "Net Income": 1571163000,
+   "Taxable Income": 1526173000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K7N",
+   "Total": 5880,
+   "Total Income": 260088000,
+   "Net Income": 238653000,
+   "Taxable Income": 232768000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K7P",
+   "Total": 17080,
+   "Total Income": 890454000,
+   "Net Income": 803370000,
+   "Taxable Income": 788659000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K7R",
+   "Total": 11560,
+   "Total Income": 478549000,
+   "Net Income": 439675000,
+   "Taxable Income": 419530000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K7S",
+   "Total": 10680,
+   "Total Income": 480078000,
+   "Net Income": 442864000,
+   "Taxable Income": 428338000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K7V",
+   "Total": 11020,
+   "Total Income": 440323000,
+   "Net Income": 407232000,
+   "Taxable Income": 389062000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K8A",
+   "Total": 21170,
+   "Total Income": 903362000,
+   "Net Income": 829724000,
+   "Taxable Income": 791785000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K8B",
+   "Total": 350,
+   "Total Income": 18592000,
+   "Net Income": 16617000,
+   "Taxable Income": 16450000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K8H",
+   "Total": 10540,
+   "Total Income": 531113000,
+   "Net Income": 479432000,
+   "Taxable Income": 470196000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K8N",
+   "Total": 23830,
+   "Total Income": 1086367000,
+   "Net Income": 992615000,
+   "Taxable Income": 953351000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K8P",
+   "Total": 16820,
+   "Total Income": 616791000,
+   "Net Income": 571577000,
+   "Taxable Income": 537654000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K8R",
+   "Total": 1170,
+   "Total Income": 52376000,
+   "Net Income": 47019000,
+   "Taxable Income": 46117000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K8V",
+   "Total": 21350,
+   "Total Income": 839280000,
+   "Net Income": 771684000,
+   "Taxable Income": 736284000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K9A",
+   "Total": 21640,
+   "Total Income": 1038470000,
+   "Net Income": 946408000,
+   "Taxable Income": 920449000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K9H",
+   "Total": 21640,
+   "Total Income": 849277000,
+   "Net Income": 781005000,
+   "Taxable Income": 742117000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K9J",
+   "Total": 34220,
+   "Total Income": 1411174000,
+   "Net Income": 1299266000,
+   "Taxable Income": 1242708000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K9K",
+   "Total": 10640,
+   "Total Income": 547818000,
+   "Net Income": 494956000,
+   "Taxable Income": 484890000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K9L",
+   "Total": 5890,
+   "Total Income": 277046000,
+   "Net Income": 250707000,
+   "Taxable Income": 245088000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "K9V",
+   "Total": 22370,
+   "Total Income": 905733000,
+   "Net Income": 834219000,
+   "Taxable Income": 799379000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L0A",
+   "Total": 11070,
+   "Total Income": 560649000,
+   "Net Income": 511197000,
+   "Taxable Income": 501249000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L0B",
+   "Total": 12550,
+   "Total Income": 677165000,
+   "Net Income": 616958000,
+   "Taxable Income": 604798000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L0C",
+   "Total": 7510,
+   "Total Income": 402006000,
+   "Net Income": 367662000,
+   "Taxable Income": 360476000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L0E",
+   "Total": 16050,
+   "Total Income": 702957000,
+   "Net Income": 651358000,
+   "Taxable Income": 630327000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L0G",
+   "Total": 31470,
+   "Total Income": 1838045000,
+   "Net Income": 1691358000,
+   "Taxable Income": 1657375000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L0H",
+   "Total": 2780,
+   "Total Income": 201107000,
+   "Net Income": 184608000,
+   "Taxable Income": 182023000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L0J",
+   "Total": 3890,
+   "Total Income": 447983000,
+   "Net Income": 418543000,
+   "Taxable Income": 407667000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L0K",
+   "Total": 27700,
+   "Total Income": 1206915000,
+   "Net Income": 1107175000,
+   "Taxable Income": 1072431000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L0L",
+   "Total": 36380,
+   "Total Income": 1969024000,
+   "Net Income": 1800464000,
+   "Taxable Income": 1762353000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L0M",
+   "Total": 26060,
+   "Total Income": 1186704000,
+   "Net Income": 1097486000,
+   "Taxable Income": 1071217000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L0N",
+   "Total": 2770,
+   "Total Income": 155778000,
+   "Net Income": 144897000,
+   "Taxable Income": 140666000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L0P",
+   "Total": 6630,
+   "Total Income": 486511000,
+   "Net Income": 449326000,
+   "Taxable Income": 435064000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L0R",
+   "Total": 73910,
+   "Total Income": 3954606000,
+   "Net Income": 3626255000,
+   "Taxable Income": 3556233000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L0S",
+   "Total": 46090,
+   "Total Income": 2485616000,
+   "Net Income": 2248220000,
+   "Taxable Income": 2177966000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L1A",
+   "Total": 12540,
+   "Total Income": 609687000,
+   "Net Income": 557694000,
+   "Taxable Income": 541593000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L1B",
+   "Total": 9390,
+   "Total Income": 499740000,
+   "Net Income": 452025000,
+   "Taxable Income": 444450000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L1C",
+   "Total": 32030,
+   "Total Income": 1608038000,
+   "Net Income": 1469452000,
+   "Taxable Income": 1445821000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L1E",
+   "Total": 20650,
+   "Total Income": 1101342000,
+   "Net Income": 1006286000,
+   "Taxable Income": 993341000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L1G",
+   "Total": 32430,
+   "Total Income": 1370550000,
+   "Net Income": 1261674000,
+   "Taxable Income": 1217956000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L1H",
+   "Total": 24570,
+   "Total Income": 967693000,
+   "Net Income": 897908000,
+   "Taxable Income": 855224000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L1J",
+   "Total": 32340,
+   "Total Income": 1274961000,
+   "Net Income": 1181201000,
+   "Taxable Income": 1132581000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L1K",
+   "Total": 28350,
+   "Total Income": 1395586000,
+   "Net Income": 1274550000,
+   "Taxable Income": 1252245000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L1L",
+   "Total": 3950,
+   "Total Income": 202775000,
+   "Net Income": 185637000,
+   "Taxable Income": 181575000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L1M",
+   "Total": 14910,
+   "Total Income": 996214000,
+   "Net Income": 900373000,
+   "Taxable Income": 890124000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L1N",
+   "Total": 37260,
+   "Total Income": 1885682000,
+   "Net Income": 1719928000,
+   "Taxable Income": 1685374000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L1P",
+   "Total": 12510,
+   "Total Income": 701828000,
+   "Net Income": 638482000,
+   "Taxable Income": 627356000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L1R",
+   "Total": 30160,
+   "Total Income": 1704607000,
+   "Net Income": 1557754000,
+   "Taxable Income": 1531864000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L1S",
+   "Total": 32050,
+   "Total Income": 1480948000,
+   "Net Income": 1358993000,
+   "Taxable Income": 1329500000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L1T",
+   "Total": 37820,
+   "Total Income": 1745351000,
+   "Net Income": 1602546000,
+   "Taxable Income": 1568024000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L1V",
+   "Total": 40810,
+   "Total Income": 2125684000,
+   "Net Income": 1943405000,
+   "Taxable Income": 1905559000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L1W",
+   "Total": 13550,
+   "Total Income": 715703000,
+   "Net Income": 654169000,
+   "Taxable Income": 642494000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L1X",
+   "Total": 15000,
+   "Total Income": 770118000,
+   "Net Income": 686769000,
+   "Taxable Income": 669930000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L1Y",
+   "Total": 1630,
+   "Total Income": 114547000,
+   "Net Income": 105019000,
+   "Taxable Income": 103429000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L1Z",
+   "Total": 19640,
+   "Total Income": 951021000,
+   "Net Income": 875387000,
+   "Taxable Income": 859669000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L2A",
+   "Total": 13060,
+   "Total Income": 490928000,
+   "Net Income": 457432000,
+   "Taxable Income": 432922000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L2E",
+   "Total": 16530,
+   "Total Income": 576427000,
+   "Net Income": 538503000,
+   "Taxable Income": 505491000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L2G",
+   "Total": 21190,
+   "Total Income": 735168000,
+   "Net Income": 686691000,
+   "Taxable Income": 649473000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L2H",
+   "Total": 19830,
+   "Total Income": 863577000,
+   "Net Income": 791728000,
+   "Taxable Income": 769734000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L2J",
+   "Total": 12340,
+   "Total Income": 542527000,
+   "Net Income": 496458000,
+   "Taxable Income": 481407000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L2M",
+   "Total": 26020,
+   "Total Income": 1004268000,
+   "Net Income": 929365000,
+   "Taxable Income": 889424000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L2N",
+   "Total": 25200,
+   "Total Income": 1186023000,
+   "Net Income": 1084184000,
+   "Taxable Income": 1051651000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L2P",
+   "Total": 11320,
+   "Total Income": 403140000,
+   "Net Income": 375352000,
+   "Taxable Income": 358769000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L2R",
+   "Total": 19430,
+   "Total Income": 751693000,
+   "Net Income": 701770000,
+   "Taxable Income": 658242000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L2S",
+   "Total": 14760,
+   "Total Income": 628653000,
+   "Net Income": 575626000,
+   "Taxable Income": 555891000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L2T",
+   "Total": 8790,
+   "Total Income": 385560000,
+   "Net Income": 353436000,
+   "Taxable Income": 343789000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L2V",
+   "Total": 12710,
+   "Total Income": 478950000,
+   "Net Income": 443918000,
+   "Taxable Income": 425458000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L2W",
+   "Total": 1580,
+   "Total Income": 85376000,
+   "Net Income": 77309000,
+   "Taxable Income": 75274000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L3B",
+   "Total": 18210,
+   "Total Income": 633738000,
+   "Net Income": 592553000,
+   "Taxable Income": 552045000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L3C",
+   "Total": 25610,
+   "Total Income": 1043369000,
+   "Net Income": 957184000,
+   "Taxable Income": 925065000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L3K",
+   "Total": 15180,
+   "Total Income": 604074000,
+   "Net Income": 560486000,
+   "Taxable Income": 532434000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L3M",
+   "Total": 21070,
+   "Total Income": 1170050000,
+   "Net Income": 1069264000,
+   "Taxable Income": 1050707000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L3P",
+   "Total": 31660,
+   "Total Income": 1686412000,
+   "Net Income": 1529791000,
+   "Taxable Income": 1492542000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L3R",
+   "Total": 54170,
+   "Total Income": 2687986000,
+   "Net Income": 2475573000,
+   "Taxable Income": 2404018000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L3S",
+   "Total": 45470,
+   "Total Income": 1483146000,
+   "Net Income": 1374427000,
+   "Taxable Income": 1311244000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L3T",
+   "Total": 43440,
+   "Total Income": 2414392000,
+   "Net Income": 2201915000,
+   "Taxable Income": 2144984000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L3V",
+   "Total": 35820,
+   "Total Income": 1497940000,
+   "Net Income": 1380817000,
+   "Taxable Income": 1327737000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L3X",
+   "Total": 31980,
+   "Total Income": 1770214000,
+   "Net Income": 1618242000,
+   "Taxable Income": 1586314000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L3Y",
+   "Total": 35850,
+   "Total Income": 1794532000,
+   "Net Income": 1646098000,
+   "Taxable Income": 1603662000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L3Z",
+   "Total": 25050,
+   "Total Income": 1155660000,
+   "Net Income": 1070848000,
+   "Taxable Income": 1045076000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L4A",
+   "Total": 31740,
+   "Total Income": 1857607000,
+   "Net Income": 1691221000,
+   "Taxable Income": 1655267000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L4B",
+   "Total": 31960,
+   "Total Income": 1648472000,
+   "Net Income": 1503780000,
+   "Taxable Income": 1458168000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L4C",
+   "Total": 59530,
+   "Total Income": 2853527000,
+   "Net Income": 2626175000,
+   "Taxable Income": 2546477000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L4E",
+   "Total": 38920,
+   "Total Income": 2025630000,
+   "Net Income": 1851022000,
+   "Taxable Income": 1812594000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L4G",
+   "Total": 43100,
+   "Total Income": 2894675000,
+   "Net Income": 2652082000,
+   "Taxable Income": 2601234000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L4H",
+   "Total": 49230,
+   "Total Income": 2505341000,
+   "Net Income": 2311315000,
+   "Taxable Income": 2253929000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L4J",
+   "Total": 63220,
+   "Total Income": 3705102000,
+   "Net Income": 3380838000,
+   "Taxable Income": 3292894000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L4K",
+   "Total": 13800,
+   "Total Income": 771419000,
+   "Net Income": 713378000,
+   "Taxable Income": 689204000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L4L",
+   "Total": 46190,
+   "Total Income": 2568225000,
+   "Net Income": 2365155000,
+   "Taxable Income": 2298309000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L4M",
+   "Total": 35050,
+   "Total Income": 1553801000,
+   "Net Income": 1430811000,
+   "Taxable Income": 1389764000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L4N",
+   "Total": 73480,
+   "Total Income": 3387703000,
+   "Net Income": 3115939000,
+   "Taxable Income": 3041103000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L4P",
+   "Total": 21730,
+   "Total Income": 970933000,
+   "Net Income": 897786000,
+   "Taxable Income": 875181000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L4R",
+   "Total": 14910,
+   "Total Income": 574646000,
+   "Net Income": 529023000,
+   "Taxable Income": 504042000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L4S",
+   "Total": 28180,
+   "Total Income": 1239781000,
+   "Net Income": 1127108000,
+   "Taxable Income": 1095316000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L4T",
+   "Total": 29650,
+   "Total Income": 801657000,
+   "Net Income": 760010000,
+   "Taxable Income": 719434000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L4V",
+   "Total": 100,
+   "Total Income": 27209000,
+   "Net Income": 26434000,
+   "Taxable Income": 25916000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L4W",
+   "Total": 17920,
+   "Total Income": 876740000,
+   "Net Income": 805528000,
+   "Taxable Income": 782181000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L4X",
+   "Total": 14710,
+   "Total Income": 523905000,
+   "Net Income": 489059000,
+   "Taxable Income": 469017000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L4Y",
+   "Total": 19020,
+   "Total Income": 823172000,
+   "Net Income": 758618000,
+   "Taxable Income": 735847000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L4Z",
+   "Total": 30280,
+   "Total Income": 1216587000,
+   "Net Income": 1128969000,
+   "Taxable Income": 1097050000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L5A",
+   "Total": 37310,
+   "Total Income": 1319853000,
+   "Net Income": 1235869000,
+   "Taxable Income": 1184713000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L5B",
+   "Total": 49240,
+   "Total Income": 1887814000,
+   "Net Income": 1762134000,
+   "Taxable Income": 1703686000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L5C",
+   "Total": 24570,
+   "Total Income": 1046079000,
+   "Net Income": 964721000,
+   "Taxable Income": 936744000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L5E",
+   "Total": 10380,
+   "Total Income": 512563000,
+   "Net Income": 471864000,
+   "Taxable Income": 460123000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L5G",
+   "Total": 15920,
+   "Total Income": 1198582000,
+   "Net Income": 1103317000,
+   "Taxable Income": 1072980000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L5H",
+   "Total": 13950,
+   "Total Income": 1361304000,
+   "Net Income": 1253652000,
+   "Taxable Income": 1221678000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L5J",
+   "Total": 21920,
+   "Total Income": 1325801000,
+   "Net Income": 1217821000,
+   "Taxable Income": 1189311000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L5K",
+   "Total": 10620,
+   "Total Income": 556837000,
+   "Net Income": 509946000,
+   "Taxable Income": 495509000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L5L",
+   "Total": 36580,
+   "Total Income": 1862656000,
+   "Net Income": 1702699000,
+   "Taxable Income": 1659136000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L5M",
+   "Total": 81260,
+   "Total Income": 3717065000,
+   "Net Income": 3413381000,
+   "Taxable Income": 3329805000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L5N",
+   "Total": 65900,
+   "Total Income": 3116981000,
+   "Net Income": 2871170000,
+   "Taxable Income": 2812689000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L5P",
+   "Total": 20,
+   "Total Income": 997000,
+   "Net Income": 968000,
+   "Taxable Income": 921000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L5R",
+   "Total": 30780,
+   "Total Income": 1187200000,
+   "Net Income": 1098699000,
+   "Taxable Income": 1064577000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L5S",
+   "Total": 150,
+   "Total Income": 7872000,
+   "Net Income": 7496000,
+   "Taxable Income": 7422000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L5T",
+   "Total": 270,
+   "Total Income": 30484000,
+   "Net Income": 29113000,
+   "Taxable Income": 28845000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L5V",
+   "Total": 41040,
+   "Total Income": 1595019000,
+   "Net Income": 1473161000,
+   "Taxable Income": 1429879000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L5W",
+   "Total": 18960,
+   "Total Income": 821842000,
+   "Net Income": 760704000,
+   "Taxable Income": 743308000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L6A",
+   "Total": 64960,
+   "Total Income": 3148701000,
+   "Net Income": 2897776000,
+   "Taxable Income": 2831519000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L6B",
+   "Total": 20940,
+   "Total Income": 944769000,
+   "Net Income": 860756000,
+   "Taxable Income": 839304000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L6C",
+   "Total": 39540,
+   "Total Income": 1983970000,
+   "Net Income": 1807392000,
+   "Taxable Income": 1754582000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L6E",
+   "Total": 27240,
+   "Total Income": 1142161000,
+   "Net Income": 1039127000,
+   "Taxable Income": 1010263000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L6G",
+   "Total": 3900,
+   "Total Income": 155673000,
+   "Net Income": 143922000,
+   "Taxable Income": 138940000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L6H",
+   "Total": 46600,
+   "Total Income": 3133121000,
+   "Net Income": 2855987000,
+   "Taxable Income": 2800096000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L6J",
+   "Total": 19870,
+   "Total Income": 2749457000,
+   "Net Income": 2574033000,
+   "Taxable Income": 2499901000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L6K",
+   "Total": 10310,
+   "Total Income": 759805000,
+   "Net Income": 702011000,
+   "Taxable Income": 678656000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L6L",
+   "Total": 23470,
+   "Total Income": 1726097000,
+   "Net Income": 1575291000,
+   "Taxable Income": 1538685000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L6M",
+   "Total": 47140,
+   "Total Income": 3336631000,
+   "Net Income": 3052067000,
+   "Taxable Income": 2991717000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L6P",
+   "Total": 62760,
+   "Total Income": 2219707000,
+   "Net Income": 2066308000,
+   "Taxable Income": 1985333000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L6R",
+   "Total": 67670,
+   "Total Income": 2147549000,
+   "Net Income": 2009338000,
+   "Taxable Income": 1936376000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L6S",
+   "Total": 42380,
+   "Total Income": 1684624000,
+   "Net Income": 1559885000,
+   "Taxable Income": 1514241000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L6T",
+   "Total": 28900,
+   "Total Income": 977300000,
+   "Net Income": 919414000,
+   "Taxable Income": 882176000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L6V",
+   "Total": 31340,
+   "Total Income": 1094095000,
+   "Net Income": 1028639000,
+   "Taxable Income": 990817000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L6W",
+   "Total": 17330,
+   "Total Income": 718519000,
+   "Net Income": 664867000,
+   "Taxable Income": 643570000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L6X",
+   "Total": 50320,
+   "Total Income": 1909254000,
+   "Net Income": 1775215000,
+   "Taxable Income": 1722818000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L6Y",
+   "Total": 68650,
+   "Total Income": 2391996000,
+   "Net Income": 2231527000,
+   "Taxable Income": 2156216000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L6Z",
+   "Total": 25660,
+   "Total Income": 1159914000,
+   "Net Income": 1069097000,
+   "Taxable Income": 1042150000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L7A",
+   "Total": 57670,
+   "Total Income": 2169791000,
+   "Net Income": 2024298000,
+   "Taxable Income": 1974900000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L7B",
+   "Total": 11340,
+   "Total Income": 1027292000,
+   "Net Income": 952446000,
+   "Taxable Income": 927843000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L7C",
+   "Total": 19320,
+   "Total Income": 1096427000,
+   "Net Income": 1003437000,
+   "Taxable Income": 976577000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L7E",
+   "Total": 25830,
+   "Total Income": 1491908000,
+   "Net Income": 1370039000,
+   "Taxable Income": 1345916000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L7G",
+   "Total": 35310,
+   "Total Income": 2179141000,
+   "Net Income": 1993397000,
+   "Taxable Income": 1952378000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L7J",
+   "Total": 10630,
+   "Total Income": 549169000,
+   "Net Income": 505958000,
+   "Taxable Income": 496195000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L7K",
+   "Total": 6680,
+   "Total Income": 457060000,
+   "Net Income": 418510000,
+   "Taxable Income": 409009000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L7L",
+   "Total": 35400,
+   "Total Income": 2276763000,
+   "Net Income": 2075902000,
+   "Taxable Income": 2043865000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L7M",
+   "Total": 36970,
+   "Total Income": 2420219000,
+   "Net Income": 2204142000,
+   "Taxable Income": 2163306000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L7N",
+   "Total": 10540,
+   "Total Income": 784696000,
+   "Net Income": 720405000,
+   "Taxable Income": 706129000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L7P",
+   "Total": 23500,
+   "Total Income": 1528950000,
+   "Net Income": 1405366000,
+   "Taxable Income": 1373419000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L7R",
+   "Total": 12870,
+   "Total Income": 752379000,
+   "Net Income": 688795000,
+   "Taxable Income": 675201000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L7S",
+   "Total": 9750,
+   "Total Income": 533789000,
+   "Net Income": 488876000,
+   "Taxable Income": 477211000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L7T",
+   "Total": 14340,
+   "Total Income": 934407000,
+   "Net Income": 852339000,
+   "Taxable Income": 835902000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L8B",
+   "Total": 1750,
+   "Total Income": 129503000,
+   "Net Income": 118488000,
+   "Taxable Income": 117591000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L8E",
+   "Total": 30870,
+   "Total Income": 1343053000,
+   "Net Income": 1244105000,
+   "Taxable Income": 1199426000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L8G",
+   "Total": 17930,
+   "Total Income": 783382000,
+   "Net Income": 721231000,
+   "Taxable Income": 696483000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L8H",
+   "Total": 20080,
+   "Total Income": 648202000,
+   "Net Income": 615019000,
+   "Taxable Income": 572994000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L8J",
+   "Total": 18190,
+   "Total Income": 856608000,
+   "Net Income": 789226000,
+   "Taxable Income": 770449000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L8K",
+   "Total": 24960,
+   "Total Income": 964774000,
+   "Net Income": 902049000,
+   "Taxable Income": 862653000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L8L",
+   "Total": 22440,
+   "Total Income": 627740000,
+   "Net Income": 598772000,
+   "Taxable Income": 531956000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L8M",
+   "Total": 9950,
+   "Total Income": 332587000,
+   "Net Income": 312271000,
+   "Taxable Income": 286327000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L8N",
+   "Total": 11020,
+   "Total Income": 385641000,
+   "Net Income": 362179000,
+   "Taxable Income": 328895000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L8P",
+   "Total": 17050,
+   "Total Income": 797577000,
+   "Net Income": 735695000,
+   "Taxable Income": 704265000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L8R",
+   "Total": 8260,
+   "Total Income": 242402000,
+   "Net Income": 229287000,
+   "Taxable Income": 204472000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L8S",
+   "Total": 10740,
+   "Total Income": 458331000,
+   "Net Income": 422732000,
+   "Taxable Income": 411337000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L8T",
+   "Total": 15410,
+   "Total Income": 640876000,
+   "Net Income": 593274000,
+   "Taxable Income": 575127000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L8V",
+   "Total": 16730,
+   "Total Income": 605181000,
+   "Net Income": 566392000,
+   "Taxable Income": 539386000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L8W",
+   "Total": 20120,
+   "Total Income": 804559000,
+   "Net Income": 746822000,
+   "Taxable Income": 720748000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L9A",
+   "Total": 19340,
+   "Total Income": 747827000,
+   "Net Income": 694319000,
+   "Taxable Income": 667921000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L9B",
+   "Total": 18510,
+   "Total Income": 836088000,
+   "Net Income": 761982000,
+   "Taxable Income": 740545000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L9C",
+   "Total": 31120,
+   "Total Income": 1325165000,
+   "Net Income": 1217535000,
+   "Taxable Income": 1178706000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L9E",
+   "Total": 550,
+   "Total Income": 25818000,
+   "Net Income": 23326000,
+   "Taxable Income": 22955000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L9G",
+   "Total": 18940,
+   "Total Income": 1396810000,
+   "Net Income": 1264577000,
+   "Taxable Income": 1246710000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L9H",
+   "Total": 25040,
+   "Total Income": 1543744000,
+   "Net Income": 1396334000,
+   "Taxable Income": 1371080000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L9J",
+   "Total": 440,
+   "Total Income": 20659000,
+   "Net Income": 19186000,
+   "Taxable Income": 18359000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L9K",
+   "Total": 10750,
+   "Total Income": 627660000,
+   "Net Income": 571685000,
+   "Taxable Income": 562278000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L9L",
+   "Total": 11970,
+   "Total Income": 700360000,
+   "Net Income": 637801000,
+   "Taxable Income": 625328000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L9M",
+   "Total": 11900,
+   "Total Income": 491229000,
+   "Net Income": 449217000,
+   "Taxable Income": 430361000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L9N",
+   "Total": 9020,
+   "Total Income": 465730000,
+   "Net Income": 424923000,
+   "Taxable Income": 418611000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L9P",
+   "Total": 13550,
+   "Total Income": 820170000,
+   "Net Income": 748317000,
+   "Taxable Income": 732634000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L9R",
+   "Total": 16640,
+   "Total Income": 810541000,
+   "Net Income": 745422000,
+   "Taxable Income": 728289000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L9S",
+   "Total": 21970,
+   "Total Income": 987823000,
+   "Net Income": 915613000,
+   "Taxable Income": 894894000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L9T",
+   "Total": 71540,
+   "Total Income": 3689469000,
+   "Net Income": 3386812000,
+   "Taxable Income": 3337668000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L9V",
+   "Total": 11210,
+   "Total Income": 519300000,
+   "Net Income": 483314000,
+   "Taxable Income": 470216000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L9W",
+   "Total": 35050,
+   "Total Income": 1778943000,
+   "Net Income": 1637842000,
+   "Taxable Income": 1602691000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L9X",
+   "Total": 930,
+   "Total Income": 73856000,
+   "Net Income": 66993000,
+   "Taxable Income": 65916000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L9Y",
+   "Total": 19690,
+   "Total Income": 1041794000,
+   "Net Income": 946730000,
+   "Taxable Income": 917942000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "L9Z",
+   "Total": 17430,
+   "Total Income": 696801000,
+   "Net Income": 639079000,
+   "Taxable Income": 615283000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M1B",
+   "Total": 51410,
+   "Total Income": 1577233000,
+   "Net Income": 1476645000,
+   "Taxable Income": 1395635000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M1C",
+   "Total": 29080,
+   "Total Income": 1483624000,
+   "Net Income": 1344497000,
+   "Taxable Income": 1313105000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M1E",
+   "Total": 36220,
+   "Total Income": 1320927000,
+   "Net Income": 1220781000,
+   "Taxable Income": 1156938000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M1G",
+   "Total": 22820,
+   "Total Income": 637206000,
+   "Net Income": 597863000,
+   "Taxable Income": 554032000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M1H",
+   "Total": 19440,
+   "Total Income": 615223000,
+   "Net Income": 573689000,
+   "Taxable Income": 546196000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M1J",
+   "Total": 27040,
+   "Total Income": 792515000,
+   "Net Income": 745657000,
+   "Taxable Income": 691457000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M1K",
+   "Total": 37790,
+   "Total Income": 1127593000,
+   "Net Income": 1062678000,
+   "Taxable Income": 990743000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M1L",
+   "Total": 25990,
+   "Total Income": 840588000,
+   "Net Income": 784068000,
+   "Taxable Income": 741108000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M1M",
+   "Total": 18020,
+   "Total Income": 815777000,
+   "Net Income": 754624000,
+   "Taxable Income": 723836000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M1N",
+   "Total": 16990,
+   "Total Income": 943134000,
+   "Net Income": 867605000,
+   "Taxable Income": 839653000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M1P",
+   "Total": 34720,
+   "Total Income": 1087988000,
+   "Net Income": 1017552000,
+   "Taxable Income": 960078000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M1R",
+   "Total": 23160,
+   "Total Income": 772892000,
+   "Net Income": 722508000,
+   "Taxable Income": 686303000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M1S",
+   "Total": 31820,
+   "Total Income": 1005483000,
+   "Net Income": 929543000,
+   "Taxable Income": 876505000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M1T",
+   "Total": 27880,
+   "Total Income": 911243000,
+   "Net Income": 846546000,
+   "Taxable Income": 792160000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M1V",
+   "Total": 46190,
+   "Total Income": 1301882000,
+   "Net Income": 1211045000,
+   "Taxable Income": 1130845000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M1W",
+   "Total": 40680,
+   "Total Income": 1383982000,
+   "Net Income": 1281736000,
+   "Taxable Income": 1214689000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M1X",
+   "Total": 12010,
+   "Total Income": 388025000,
+   "Net Income": 361332000,
+   "Taxable Income": 341517000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M2H",
+   "Total": 21060,
+   "Total Income": 877532000,
+   "Net Income": 802565000,
+   "Taxable Income": 773407000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M2J",
+   "Total": 47680,
+   "Total Income": 1797005000,
+   "Net Income": 1658575000,
+   "Taxable Income": 1596363000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M2K",
+   "Total": 19410,
+   "Total Income": 1081559000,
+   "Net Income": 988693000,
+   "Taxable Income": 966787000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M2L",
+   "Total": 9710,
+   "Total Income": 1139587000,
+   "Net Income": 1067217000,
+   "Taxable Income": 1031778000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M2M",
+   "Total": 28490,
+   "Total Income": 1147808000,
+   "Net Income": 1065530000,
+   "Taxable Income": 1025402000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M2N",
+   "Total": 71020,
+   "Total Income": 3195083000,
+   "Net Income": 2960653000,
+   "Taxable Income": 2888563000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M2P",
+   "Total": 6520,
+   "Total Income": 872817000,
+   "Net Income": 818729000,
+   "Taxable Income": 801173000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M2R",
+   "Total": 33730,
+   "Total Income": 1222874000,
+   "Net Income": 1143625000,
+   "Taxable Income": 1083956000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M3A",
+   "Total": 26010,
+   "Total Income": 1145870000,
+   "Net Income": 1061663000,
+   "Taxable Income": 1022821000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M3B",
+   "Total": 12110,
+   "Total Income": 1508813000,
+   "Net Income": 1399757000,
+   "Taxable Income": 1371840000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M3C",
+   "Total": 30030,
+   "Total Income": 1285628000,
+   "Net Income": 1199609000,
+   "Taxable Income": 1142225000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M3H",
+   "Total": 28930,
+   "Total Income": 1740329000,
+   "Net Income": 1613683000,
+   "Taxable Income": 1574255000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M3J",
+   "Total": 22190,
+   "Total Income": 647022000,
+   "Net Income": 614298000,
+   "Taxable Income": 579214000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M3K",
+   "Total": 5040,
+   "Total Income": 218956000,
+   "Net Income": 206577000,
+   "Taxable Income": 198661000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M3L",
+   "Total": 14140,
+   "Total Income": 421863000,
+   "Net Income": 399647000,
+   "Taxable Income": 371658000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M3M",
+   "Total": 18810,
+   "Total Income": 619631000,
+   "Net Income": 585025000,
+   "Taxable Income": 551985000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M3N",
+   "Total": 31250,
+   "Total Income": 774519000,
+   "Net Income": 742805000,
+   "Taxable Income": 661075000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M4A",
+   "Total": 11220,
+   "Total Income": 430312000,
+   "Net Income": 399158000,
+   "Taxable Income": 378406000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M4B",
+   "Total": 14080,
+   "Total Income": 620202000,
+   "Net Income": 573065000,
+   "Taxable Income": 548208000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M4C",
+   "Total": 35150,
+   "Total Income": 1453562000,
+   "Net Income": 1338728000,
+   "Taxable Income": 1284119000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M4E",
+   "Total": 18370,
+   "Total Income": 1529450000,
+   "Net Income": 1395460000,
+   "Taxable Income": 1362909000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M4G",
+   "Total": 14550,
+   "Total Income": 1788486000,
+   "Net Income": 1656301000,
+   "Taxable Income": 1602485000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M4H",
+   "Total": 13130,
+   "Total Income": 311197000,
+   "Net Income": 295979000,
+   "Taxable Income": 262923000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M4J",
+   "Total": 26970,
+   "Total Income": 1366623000,
+   "Net Income": 1246053000,
+   "Taxable Income": 1205603000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M4K",
+   "Total": 23900,
+   "Total Income": 1525958000,
+   "Net Income": 1397211000,
+   "Taxable Income": 1360369000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M4L",
+   "Total": 23640,
+   "Total Income": 1519113000,
+   "Net Income": 1386565000,
+   "Taxable Income": 1341845000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M4M",
+   "Total": 18430,
+   "Total Income": 1005249000,
+   "Net Income": 921669000,
+   "Taxable Income": 889413000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M4N",
+   "Total": 12020,
+   "Total Income": 2546182000,
+   "Net Income": 2393008000,
+   "Taxable Income": 2309339000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M4P",
+   "Total": 15300,
+   "Total Income": 1067743000,
+   "Net Income": 984550000,
+   "Taxable Income": 957252000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M4R",
+   "Total": 8690,
+   "Total Income": 1189093000,
+   "Net Income": 1109188000,
+   "Taxable Income": 1073063000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M4S",
+   "Total": 20480,
+   "Total Income": 1576157000,
+   "Net Income": 1446888000,
+   "Taxable Income": 1422761000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M4T",
+   "Total": 9240,
+   "Total Income": 1691333000,
+   "Net Income": 1579848000,
+   "Taxable Income": 1499029000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M4V",
+   "Total": 14010,
+   "Total Income": 2343359000,
+   "Net Income": 2173450000,
+   "Taxable Income": 2100158000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M4W",
+   "Total": 11600,
+   "Total Income": 2350416000,
+   "Net Income": 2208323000,
+   "Taxable Income": 2139394000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M4X",
+   "Total": 15670,
+   "Total Income": 603211000,
+   "Net Income": 565582000,
+   "Taxable Income": 529358000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M4Y",
+   "Total": 22510,
+   "Total Income": 1139727000,
+   "Net Income": 1056991000,
+   "Taxable Income": 1031304000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M5A",
+   "Total": 30460,
+   "Total Income": 1538571000,
+   "Net Income": 1423599000,
+   "Taxable Income": 1348482000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M5B",
+   "Total": 9610,
+   "Total Income": 443227000,
+   "Net Income": 410928000,
+   "Taxable Income": 394432000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M5C",
+   "Total": 3820,
+   "Total Income": 556906000,
+   "Net Income": 514445000,
+   "Taxable Income": 496812000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M5E",
+   "Total": 7060,
+   "Total Income": 635298000,
+   "Net Income": 586010000,
+   "Taxable Income": 576844000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M5G",
+   "Total": 19420,
+   "Total Income": 514017000,
+   "Net Income": 487011000,
+   "Taxable Income": 382886000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M5H",
+   "Total": 2480,
+   "Total Income": 443761000,
+   "Net Income": 416327000,
+   "Taxable Income": 398614000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M5J",
+   "Total": 10760,
+   "Total Income": 1012863000,
+   "Net Income": 940243000,
+   "Taxable Income": 895951000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M5K",
+   "Total": 360,
+   "Total Income": 62147000,
+   "Net Income": 59891000,
+   "Taxable Income": 55970000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M5L",
+   "Total": 50,
+   "Total Income": 11895000,
+   "Net Income": 10335000,
+   "Taxable Income": 8924000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M5M",
+   "Total": 19910,
+   "Total Income": 2410980000,
+   "Net Income": 2220924000,
+   "Taxable Income": 2180363000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M5N",
+   "Total": 12570,
+   "Total Income": 1516399000,
+   "Net Income": 1405871000,
+   "Taxable Income": 1361667000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M5P",
+   "Total": 14920,
+   "Total Income": 2171612000,
+   "Net Income": 2022385000,
+   "Taxable Income": 1942902000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M5R",
+   "Total": 19460,
+   "Total Income": 2349960000,
+   "Net Income": 2173676000,
+   "Taxable Income": 2098032000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M5S",
+   "Total": 11630,
+   "Total Income": 853822000,
+   "Net Income": 789876000,
+   "Taxable Income": 766252000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M5T",
+   "Total": 13970,
+   "Total Income": 513622000,
+   "Net Income": 479246000,
+   "Taxable Income": 443994000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M5V",
+   "Total": 35020,
+   "Total Income": 2680450000,
+   "Net Income": 2490812000,
+   "Taxable Income": 2450182000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M5W",
+   "Total": 170,
+   "Total Income": 15135000,
+   "Net Income": 13907000,
+   "Taxable Income": 13116000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M5X",
+   "Total": 110,
+   "Total Income": 42474000,
+   "Net Income": 40187000,
+   "Taxable Income": 39879000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M6A",
+   "Total": 15450,
+   "Total Income": 631883000,
+   "Net Income": 590709000,
+   "Taxable Income": 563398000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M6B",
+   "Total": 22570,
+   "Total Income": 1236338000,
+   "Net Income": 1149592000,
+   "Taxable Income": 1113588000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M6C",
+   "Total": 18540,
+   "Total Income": 1272673000,
+   "Net Income": 1172325000,
+   "Taxable Income": 1142431000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M6E",
+   "Total": 30200,
+   "Total Income": 1046724000,
+   "Net Income": 985494000,
+   "Taxable Income": 935581000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M6G",
+   "Total": 23540,
+   "Total Income": 1354917000,
+   "Net Income": 1247982000,
+   "Taxable Income": 1211430000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M6H",
+   "Total": 33990,
+   "Total Income": 1411706000,
+   "Net Income": 1312281000,
+   "Taxable Income": 1262340000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M6J",
+   "Total": 23740,
+   "Total Income": 1317480000,
+   "Net Income": 1223323000,
+   "Taxable Income": 1184391000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M6K",
+   "Total": 29110,
+   "Total Income": 1255033000,
+   "Net Income": 1176506000,
+   "Taxable Income": 1114304000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M6L",
+   "Total": 16150,
+   "Total Income": 549290000,
+   "Net Income": 515186000,
+   "Taxable Income": 485307000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M6M",
+   "Total": 32070,
+   "Total Income": 999734000,
+   "Net Income": 947875000,
+   "Taxable Income": 883733000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M6N",
+   "Total": 32080,
+   "Total Income": 1062985000,
+   "Net Income": 1003082000,
+   "Taxable Income": 941500000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M6P",
+   "Total": 29640,
+   "Total Income": 1627097000,
+   "Net Income": 1495349000,
+   "Taxable Income": 1449535000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M6R",
+   "Total": 14080,
+   "Total Income": 985298000,
+   "Net Income": 906023000,
+   "Taxable Income": 879835000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M6S",
+   "Total": 25460,
+   "Total Income": 2012518000,
+   "Net Income": 1846321000,
+   "Taxable Income": 1806366000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M7A",
+   "Total": 0,
+   "Total Income": 0,
+   "Net Income": 0,
+   "Taxable Income": 0
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M7Y",
+   "Total": 0,
+   "Total Income": 0,
+   "Net Income": 0,
+   "Taxable Income": 0
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M8V",
+   "Total": 28990,
+   "Total Income": 1539777000,
+   "Net Income": 1417919000,
+   "Taxable Income": 1367750000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M8W",
+   "Total": 16280,
+   "Total Income": 780408000,
+   "Net Income": 719650000,
+   "Taxable Income": 699815000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M8X",
+   "Total": 8770,
+   "Total Income": 1210118000,
+   "Net Income": 1119811000,
+   "Taxable Income": 1089494000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M8Y",
+   "Total": 16550,
+   "Total Income": 1012287000,
+   "Net Income": 932074000,
+   "Taxable Income": 907459000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M8Z",
+   "Total": 13350,
+   "Total Income": 835854000,
+   "Net Income": 766340000,
+   "Taxable Income": 753542000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M9A",
+   "Total": 28170,
+   "Total Income": 2398078000,
+   "Net Income": 2225407000,
+   "Taxable Income": 2156419000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M9B",
+   "Total": 25810,
+   "Total Income": 1530274000,
+   "Net Income": 1403401000,
+   "Taxable Income": 1369832000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M9C",
+   "Total": 30940,
+   "Total Income": 1503933000,
+   "Net Income": 1380324000,
+   "Taxable Income": 1346215000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M9L",
+   "Total": 9820,
+   "Total Income": 299043000,
+   "Net Income": 282668000,
+   "Taxable Income": 264508000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M9M",
+   "Total": 17270,
+   "Total Income": 529970000,
+   "Net Income": 500214000,
+   "Taxable Income": 470964000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M9N",
+   "Total": 19260,
+   "Total Income": 643713000,
+   "Net Income": 603885000,
+   "Taxable Income": 561206000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M9P",
+   "Total": 16510,
+   "Total Income": 829459000,
+   "Net Income": 766629000,
+   "Taxable Income": 738332000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M9R",
+   "Total": 26510,
+   "Total Income": 1002759000,
+   "Net Income": 932733000,
+   "Taxable Income": 885284000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M9V",
+   "Total": 43220,
+   "Total Income": 1163260000,
+   "Net Income": 1103987000,
+   "Taxable Income": 1021729000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "M9W",
+   "Total": 32670,
+   "Total Income": 1071930000,
+   "Net Income": 1005517000,
+   "Taxable Income": 954350000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N0A",
+   "Total": 28650,
+   "Total Income": 1145409000,
+   "Net Income": 1051669000,
+   "Taxable Income": 1013574000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N0B",
+   "Total": 60640,
+   "Total Income": 3574961000,
+   "Net Income": 3280567000,
+   "Taxable Income": 3202999000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N0C",
+   "Total": 12120,
+   "Total Income": 492115000,
+   "Net Income": 457332000,
+   "Taxable Income": 436162000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N0E",
+   "Total": 27730,
+   "Total Income": 1240190000,
+   "Net Income": 1149634000,
+   "Taxable Income": 1108746000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N0G",
+   "Total": 63230,
+   "Total Income": 2699393000,
+   "Net Income": 2513128000,
+   "Taxable Income": 2384947000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N0H",
+   "Total": 39510,
+   "Total Income": 1959796000,
+   "Net Income": 1782123000,
+   "Taxable Income": 1727934000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N0J",
+   "Total": 23990,
+   "Total Income": 1048871000,
+   "Net Income": 978582000,
+   "Taxable Income": 937298000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N0K",
+   "Total": 18390,
+   "Total Income": 802710000,
+   "Net Income": 750603000,
+   "Taxable Income": 717355000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N0L",
+   "Total": 38260,
+   "Total Income": 1835441000,
+   "Net Income": 1686470000,
+   "Taxable Income": 1623560000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N0M",
+   "Total": 52300,
+   "Total Income": 2541520000,
+   "Net Income": 2336518000,
+   "Taxable Income": 2228685000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N0N",
+   "Total": 32510,
+   "Total Income": 1739250000,
+   "Net Income": 1588368000,
+   "Taxable Income": 1534692000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N0P",
+   "Total": 42030,
+   "Total Income": 1785600000,
+   "Net Income": 1660914000,
+   "Taxable Income": 1573330000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N0R",
+   "Total": 35700,
+   "Total Income": 1896430000,
+   "Net Income": 1745731000,
+   "Taxable Income": 1701066000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N1A",
+   "Total": 9650,
+   "Total Income": 372449000,
+   "Net Income": 345794000,
+   "Taxable Income": 329159000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N1C",
+   "Total": 3010,
+   "Total Income": 197299000,
+   "Net Income": 178234000,
+   "Taxable Income": 176092000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N1E",
+   "Total": 30330,
+   "Total Income": 1465622000,
+   "Net Income": 1352391000,
+   "Taxable Income": 1320497000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N1G",
+   "Total": 20690,
+   "Total Income": 1101434000,
+   "Net Income": 1001416000,
+   "Taxable Income": 982329000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N1H",
+   "Total": 33880,
+   "Total Income": 1600064000,
+   "Net Income": 1481384000,
+   "Taxable Income": 1436064000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N1K",
+   "Total": 7270,
+   "Total Income": 321803000,
+   "Net Income": 298258000,
+   "Taxable Income": 292526000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N1L",
+   "Total": 10320,
+   "Total Income": 625065000,
+   "Net Income": 570826000,
+   "Taxable Income": 559835000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N1M",
+   "Total": 12330,
+   "Total Income": 583978000,
+   "Net Income": 539940000,
+   "Taxable Income": 528220000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N1P",
+   "Total": 5330,
+   "Total Income": 253955000,
+   "Net Income": 237680000,
+   "Taxable Income": 234251000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N1R",
+   "Total": 32740,
+   "Total Income": 1289291000,
+   "Net Income": 1208419000,
+   "Taxable Income": 1158380000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N1S",
+   "Total": 15070,
+   "Total Income": 755450000,
+   "Net Income": 695163000,
+   "Taxable Income": 676116000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N1T",
+   "Total": 13390,
+   "Total Income": 690607000,
+   "Net Income": 636995000,
+   "Taxable Income": 623220000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N2A",
+   "Total": 22740,
+   "Total Income": 1094868000,
+   "Net Income": 1010318000,
+   "Taxable Income": 976175000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N2B",
+   "Total": 13440,
+   "Total Income": 576497000,
+   "Net Income": 534542000,
+   "Taxable Income": 518196000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N2C",
+   "Total": 12450,
+   "Total Income": 442837000,
+   "Net Income": 419161000,
+   "Taxable Income": 397257000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N2E",
+   "Total": 28530,
+   "Total Income": 1148902000,
+   "Net Income": 1071983000,
+   "Taxable Income": 1038949000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N2G",
+   "Total": 10380,
+   "Total Income": 394855000,
+   "Net Income": 369731000,
+   "Taxable Income": 349822000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N2H",
+   "Total": 16140,
+   "Total Income": 704269000,
+   "Net Income": 652338000,
+   "Taxable Income": 628792000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N2J",
+   "Total": 14110,
+   "Total Income": 692991000,
+   "Net Income": 638920000,
+   "Taxable Income": 621682000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N2K",
+   "Total": 20870,
+   "Total Income": 1343000000,
+   "Net Income": 1225451000,
+   "Taxable Income": 1203979000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N2L",
+   "Total": 21490,
+   "Total Income": 1046155000,
+   "Net Income": 952468000,
+   "Taxable Income": 930626000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N2M",
+   "Total": 25090,
+   "Total Income": 1001818000,
+   "Net Income": 934711000,
+   "Taxable Income": 896463000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N2N",
+   "Total": 20380,
+   "Total Income": 943308000,
+   "Net Income": 865970000,
+   "Taxable Income": 846928000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N2P",
+   "Total": 14780,
+   "Total Income": 899037000,
+   "Net Income": 820788000,
+   "Taxable Income": 806821000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N2R",
+   "Total": 8520,
+   "Total Income": 425572000,
+   "Net Income": 392119000,
+   "Taxable Income": 386353000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N2T",
+   "Total": 16120,
+   "Total Income": 975618000,
+   "Net Income": 886421000,
+   "Taxable Income": 871874000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N2V",
+   "Total": 12770,
+   "Total Income": 739282000,
+   "Net Income": 675014000,
+   "Taxable Income": 661051000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N2Z",
+   "Total": 8860,
+   "Total Income": 576009000,
+   "Net Income": 522692000,
+   "Taxable Income": 513083000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N3A",
+   "Total": 12320,
+   "Total Income": 658053000,
+   "Net Income": 600249000,
+   "Taxable Income": 588526000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N3B",
+   "Total": 9020,
+   "Total Income": 459947000,
+   "Net Income": 425327000,
+   "Taxable Income": 415801000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N3C",
+   "Total": 20050,
+   "Total Income": 1042121000,
+   "Net Income": 961258000,
+   "Taxable Income": 943896000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N3E",
+   "Total": 250,
+   "Total Income": 20111000,
+   "Net Income": 18833000,
+   "Taxable Income": 18660000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N3H",
+   "Total": 16760,
+   "Total Income": 758515000,
+   "Net Income": 712079000,
+   "Taxable Income": 691641000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N3L",
+   "Total": 11440,
+   "Total Income": 558881000,
+   "Net Income": 513796000,
+   "Taxable Income": 500098000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N3P",
+   "Total": 6630,
+   "Total Income": 268701000,
+   "Net Income": 249488000,
+   "Taxable Income": 242867000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N3R",
+   "Total": 27540,
+   "Total Income": 1160799000,
+   "Net Income": 1068443000,
+   "Taxable Income": 1034731000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N3S",
+   "Total": 19150,
+   "Total Income": 644261000,
+   "Net Income": 604857000,
+   "Taxable Income": 566347000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N3T",
+   "Total": 26310,
+   "Total Income": 1160588000,
+   "Net Income": 1074964000,
+   "Taxable Income": 1031040000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N3V",
+   "Total": 1280,
+   "Total Income": 58218000,
+   "Net Income": 53611000,
+   "Taxable Income": 52663000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N3W",
+   "Total": 10550,
+   "Total Income": 543730000,
+   "Net Income": 496211000,
+   "Taxable Income": 487170000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N3Y",
+   "Total": 18440,
+   "Total Income": 774996000,
+   "Net Income": 712431000,
+   "Taxable Income": 679506000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N4B",
+   "Total": 6230,
+   "Total Income": 249438000,
+   "Net Income": 231246000,
+   "Taxable Income": 221703000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N4G",
+   "Total": 15760,
+   "Total Income": 676996000,
+   "Net Income": 629148000,
+   "Taxable Income": 598588000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N4K",
+   "Total": 22970,
+   "Total Income": 969174000,
+   "Net Income": 888387000,
+   "Taxable Income": 852834000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N4L",
+   "Total": 6570,
+   "Total Income": 278392000,
+   "Net Income": 254433000,
+   "Taxable Income": 243252000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N4N",
+   "Total": 8190,
+   "Total Income": 347470000,
+   "Net Income": 320115000,
+   "Taxable Income": 307216000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N4S",
+   "Total": 25520,
+   "Total Income": 1079915000,
+   "Net Income": 1007905000,
+   "Taxable Income": 967256000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N4T",
+   "Total": 8360,
+   "Total Income": 439162000,
+   "Net Income": 402418000,
+   "Taxable Income": 393090000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N4V",
+   "Total": 2150,
+   "Total Income": 98880000,
+   "Net Income": 91664000,
+   "Taxable Income": 89633000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N4W",
+   "Total": 8440,
+   "Total Income": 375013000,
+   "Net Income": 350958000,
+   "Taxable Income": 335118000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N4X",
+   "Total": 7860,
+   "Total Income": 382999000,
+   "Net Income": 352045000,
+   "Taxable Income": 339598000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N4Z",
+   "Total": 1900,
+   "Total Income": 85929000,
+   "Net Income": 79150000,
+   "Taxable Income": 76749000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N5A",
+   "Total": 25110,
+   "Total Income": 1164629000,
+   "Net Income": 1073853000,
+   "Taxable Income": 1041400000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N5C",
+   "Total": 11510,
+   "Total Income": 518249000,
+   "Net Income": 479806000,
+   "Taxable Income": 465373000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N5H",
+   "Total": 11160,
+   "Total Income": 413998000,
+   "Net Income": 388018000,
+   "Taxable Income": 371337000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N5L",
+   "Total": 2650,
+   "Total Income": 137707000,
+   "Net Income": 125607000,
+   "Taxable Income": 121251000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N5P",
+   "Total": 15280,
+   "Total Income": 642098000,
+   "Net Income": 593673000,
+   "Taxable Income": 567798000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N5R",
+   "Total": 21460,
+   "Total Income": 896179000,
+   "Net Income": 823425000,
+   "Taxable Income": 795405000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N5V",
+   "Total": 23420,
+   "Total Income": 824485000,
+   "Net Income": 770609000,
+   "Taxable Income": 734438000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N5W",
+   "Total": 18250,
+   "Total Income": 641726000,
+   "Net Income": 602347000,
+   "Taxable Income": 568708000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N5X",
+   "Total": 24770,
+   "Total Income": 1409797000,
+   "Net Income": 1280971000,
+   "Taxable Income": 1254698000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N5Y",
+   "Total": 25110,
+   "Total Income": 889669000,
+   "Net Income": 831249000,
+   "Taxable Income": 782111000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N5Z",
+   "Total": 17770,
+   "Total Income": 588694000,
+   "Net Income": 554469000,
+   "Taxable Income": 519383000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N6A",
+   "Total": 7990,
+   "Total Income": 572616000,
+   "Net Income": 529924000,
+   "Taxable Income": 514203000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N6B",
+   "Total": 8190,
+   "Total Income": 365465000,
+   "Net Income": 333942000,
+   "Taxable Income": 314036000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N6C",
+   "Total": 23530,
+   "Total Income": 1098487000,
+   "Net Income": 1009624000,
+   "Taxable Income": 976664000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N6E",
+   "Total": 20550,
+   "Total Income": 687259000,
+   "Net Income": 643689000,
+   "Taxable Income": 610459000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N6G",
+   "Total": 30520,
+   "Total Income": 1672247000,
+   "Net Income": 1520742000,
+   "Taxable Income": 1482852000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N6H",
+   "Total": 31410,
+   "Total Income": 1530911000,
+   "Net Income": 1399526000,
+   "Taxable Income": 1359715000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N6J",
+   "Total": 21130,
+   "Total Income": 829544000,
+   "Net Income": 765326000,
+   "Taxable Income": 732853000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N6K",
+   "Total": 27230,
+   "Total Income": 1645102000,
+   "Net Income": 1486473000,
+   "Taxable Income": 1450010000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N6L",
+   "Total": 2090,
+   "Total Income": 96381000,
+   "Net Income": 89265000,
+   "Taxable Income": 85868000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N6M",
+   "Total": 4400,
+   "Total Income": 206882000,
+   "Net Income": 190604000,
+   "Taxable Income": 185954000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N6N",
+   "Total": 570,
+   "Total Income": 29389000,
+   "Net Income": 27415000,
+   "Taxable Income": 26275000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N6P",
+   "Total": 6820,
+   "Total Income": 455865000,
+   "Net Income": 414668000,
+   "Taxable Income": 406767000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N7A",
+   "Total": 9770,
+   "Total Income": 441062000,
+   "Net Income": 405294000,
+   "Taxable Income": 389808000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N7G",
+   "Total": 14030,
+   "Total Income": 602510000,
+   "Net Income": 555942000,
+   "Taxable Income": 536656000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N7L",
+   "Total": 19850,
+   "Total Income": 813146000,
+   "Net Income": 748764000,
+   "Taxable Income": 709836000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N7M",
+   "Total": 19200,
+   "Total Income": 802863000,
+   "Net Income": 744098000,
+   "Taxable Income": 705496000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N7S",
+   "Total": 21960,
+   "Total Income": 1159026000,
+   "Net Income": 1058861000,
+   "Taxable Income": 1033915000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N7T",
+   "Total": 20200,
+   "Total Income": 797813000,
+   "Net Income": 743438000,
+   "Taxable Income": 699992000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N7V",
+   "Total": 9960,
+   "Total Income": 553710000,
+   "Net Income": 506439000,
+   "Taxable Income": 493565000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N7W",
+   "Total": 2020,
+   "Total Income": 113006000,
+   "Net Income": 101638000,
+   "Taxable Income": 98531000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N7X",
+   "Total": 970,
+   "Total Income": 106963000,
+   "Net Income": 98195000,
+   "Taxable Income": 97127000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N8A",
+   "Total": 10990,
+   "Total Income": 376406000,
+   "Net Income": 352347000,
+   "Taxable Income": 325214000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N8H",
+   "Total": 28880,
+   "Total Income": 949967000,
+   "Net Income": 904981000,
+   "Taxable Income": 838623000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N8M",
+   "Total": 8790,
+   "Total Income": 413559000,
+   "Net Income": 383006000,
+   "Taxable Income": 369352000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N8N",
+   "Total": 19800,
+   "Total Income": 1199825000,
+   "Net Income": 1095491000,
+   "Taxable Income": 1070195000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N8P",
+   "Total": 9610,
+   "Total Income": 499246000,
+   "Net Income": 458412000,
+   "Taxable Income": 447122000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N8R",
+   "Total": 9550,
+   "Total Income": 380884000,
+   "Net Income": 353418000,
+   "Taxable Income": 340809000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N8S",
+   "Total": 17640,
+   "Total Income": 809971000,
+   "Net Income": 750159000,
+   "Taxable Income": 724900000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N8T",
+   "Total": 13430,
+   "Total Income": 435857000,
+   "Net Income": 409348000,
+   "Taxable Income": 378697000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N8V",
+   "Total": 0,
+   "Total Income": 0,
+   "Net Income": 0,
+   "Taxable Income": 0
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N8W",
+   "Total": 18830,
+   "Total Income": 740072000,
+   "Net Income": 690114000,
+   "Taxable Income": 662792000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N8X",
+   "Total": 12340,
+   "Total Income": 397718000,
+   "Net Income": 375008000,
+   "Taxable Income": 344598000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N8Y",
+   "Total": 14390,
+   "Total Income": 556942000,
+   "Net Income": 521549000,
+   "Taxable Income": 491086000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N9A",
+   "Total": 19060,
+   "Total Income": 521152000,
+   "Net Income": 495204000,
+   "Taxable Income": 429758000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N9B",
+   "Total": 13460,
+   "Total Income": 368725000,
+   "Net Income": 347291000,
+   "Taxable Income": 320273000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N9C",
+   "Total": 8550,
+   "Total Income": 219100000,
+   "Net Income": 208530000,
+   "Taxable Income": 188302000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N9E",
+   "Total": 16630,
+   "Total Income": 833190000,
+   "Net Income": 761532000,
+   "Taxable Income": 744769000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N9G",
+   "Total": 15000,
+   "Total Income": 739370000,
+   "Net Income": 678925000,
+   "Taxable Income": 663382000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N9H",
+   "Total": 8320,
+   "Total Income": 483402000,
+   "Net Income": 441931000,
+   "Taxable Income": 431773000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N9J",
+   "Total": 15360,
+   "Total Income": 884412000,
+   "Net Income": 807763000,
+   "Taxable Income": 794958000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N9K",
+   "Total": 2010,
+   "Total Income": 115622000,
+   "Net Income": 104369000,
+   "Taxable Income": 101939000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N9V",
+   "Total": 16020,
+   "Total Income": 813631000,
+   "Net Income": 749089000,
+   "Taxable Income": 728934000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "N9Y",
+   "Total": 11670,
+   "Total Income": 562156000,
+   "Net Income": 517127000,
+   "Taxable Income": 502872000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P0A",
+   "Total": 13620,
+   "Total Income": 498346000,
+   "Net Income": 459731000,
+   "Taxable Income": 437745000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P0B",
+   "Total": 7200,
+   "Total Income": 334458000,
+   "Net Income": 308050000,
+   "Taxable Income": 300206000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P0C",
+   "Total": 3120,
+   "Total Income": 134171000,
+   "Net Income": 124142000,
+   "Taxable Income": 119924000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P0E",
+   "Total": 2520,
+   "Total Income": 105023000,
+   "Net Income": 96479000,
+   "Taxable Income": 93173000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P0G",
+   "Total": 2620,
+   "Total Income": 109529000,
+   "Net Income": 100054000,
+   "Taxable Income": 94956000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P0H",
+   "Total": 25850,
+   "Total Income": 1072152000,
+   "Net Income": 985080000,
+   "Taxable Income": 942328000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P0J",
+   "Total": 17020,
+   "Total Income": 708591000,
+   "Net Income": 657125000,
+   "Taxable Income": 624113000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P0K",
+   "Total": 9100,
+   "Total Income": 411703000,
+   "Net Income": 377779000,
+   "Taxable Income": 361100000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P0L",
+   "Total": 18400,
+   "Total Income": 682850000,
+   "Net Income": 635909000,
+   "Taxable Income": 598093000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P0M",
+   "Total": 40330,
+   "Total Income": 1854250000,
+   "Net Income": 1715985000,
+   "Taxable Income": 1657831000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P0N",
+   "Total": 7520,
+   "Total Income": 369788000,
+   "Net Income": 343997000,
+   "Taxable Income": 332100000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P0P",
+   "Total": 15170,
+   "Total Income": 488812000,
+   "Net Income": 453609000,
+   "Taxable Income": 422542000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P0R",
+   "Total": 10290,
+   "Total Income": 405959000,
+   "Net Income": 373913000,
+   "Taxable Income": 352938000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P0S",
+   "Total": 8030,
+   "Total Income": 348649000,
+   "Net Income": 322034000,
+   "Taxable Income": 309311000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P0T",
+   "Total": 25510,
+   "Total Income": 1040936000,
+   "Net Income": 958521000,
+   "Taxable Income": 913880000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P0V",
+   "Total": 14410,
+   "Total Income": 392305000,
+   "Net Income": 368024000,
+   "Taxable Income": 330945000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P0W",
+   "Total": 4900,
+   "Total Income": 186500000,
+   "Net Income": 172632000,
+   "Taxable Income": 165074000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P0X",
+   "Total": 5660,
+   "Total Income": 203027000,
+   "Net Income": 185572000,
+   "Taxable Income": 177159000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P0Y",
+   "Total": 50,
+   "Total Income": 2123000,
+   "Net Income": 1917000,
+   "Taxable Income": 1887000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P1A",
+   "Total": 13220,
+   "Total Income": 583063000,
+   "Net Income": 534155000,
+   "Taxable Income": 514079000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P1B",
+   "Total": 26230,
+   "Total Income": 1070561000,
+   "Net Income": 990438000,
+   "Taxable Income": 937546000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P1C",
+   "Total": 2690,
+   "Total Income": 194832000,
+   "Net Income": 176058000,
+   "Taxable Income": 174049000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P1H",
+   "Total": 13390,
+   "Total Income": 607905000,
+   "Net Income": 559099000,
+   "Taxable Income": 540849000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P1L",
+   "Total": 13480,
+   "Total Income": 630365000,
+   "Net Income": 577633000,
+   "Taxable Income": 562673000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P1P",
+   "Total": 7800,
+   "Total Income": 308907000,
+   "Net Income": 283848000,
+   "Taxable Income": 270352000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P2A",
+   "Total": 10730,
+   "Total Income": 441274000,
+   "Net Income": 404621000,
+   "Taxable Income": 387756000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P2B",
+   "Total": 7820,
+   "Total Income": 306822000,
+   "Net Income": 282107000,
+   "Taxable Income": 262939000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P2N",
+   "Total": 5690,
+   "Total Income": 242559000,
+   "Net Income": 226175000,
+   "Taxable Income": 213841000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P3A",
+   "Total": 19240,
+   "Total Income": 903069000,
+   "Net Income": 826889000,
+   "Taxable Income": 799128000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P3B",
+   "Total": 12210,
+   "Total Income": 532832000,
+   "Net Income": 497365000,
+   "Taxable Income": 473587000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P3C",
+   "Total": 12880,
+   "Total Income": 436539000,
+   "Net Income": 410323000,
+   "Taxable Income": 378234000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P3E",
+   "Total": 22080,
+   "Total Income": 1321424000,
+   "Net Income": 1213619000,
+   "Taxable Income": 1183812000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P3G",
+   "Total": 3320,
+   "Total Income": 233957000,
+   "Net Income": 213000000,
+   "Taxable Income": 210388000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P3L",
+   "Total": 6310,
+   "Total Income": 321014000,
+   "Net Income": 294494000,
+   "Taxable Income": 287709000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P3N",
+   "Total": 6290,
+   "Total Income": 319219000,
+   "Net Income": 294868000,
+   "Taxable Income": 288410000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P3P",
+   "Total": 11940,
+   "Total Income": 605844000,
+   "Net Income": 558466000,
+   "Taxable Income": 546330000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P3Y",
+   "Total": 6070,
+   "Total Income": 355383000,
+   "Net Income": 323427000,
+   "Taxable Income": 318405000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P4N",
+   "Total": 20250,
+   "Total Income": 944904000,
+   "Net Income": 882231000,
+   "Taxable Income": 845780000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P4P",
+   "Total": 2510,
+   "Total Income": 134761000,
+   "Net Income": 124515000,
+   "Taxable Income": 121923000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P4R",
+   "Total": 3660,
+   "Total Income": 208144000,
+   "Net Income": 192351000,
+   "Taxable Income": 186258000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P5A",
+   "Total": 9330,
+   "Total Income": 326153000,
+   "Net Income": 301933000,
+   "Taxable Income": 275401000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P5E",
+   "Total": 4380,
+   "Total Income": 192899000,
+   "Net Income": 178362000,
+   "Taxable Income": 171375000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P5N",
+   "Total": 7000,
+   "Total Income": 300824000,
+   "Net Income": 278544000,
+   "Taxable Income": 266337000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P6A",
+   "Total": 28710,
+   "Total Income": 1290864000,
+   "Net Income": 1186549000,
+   "Taxable Income": 1138930000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P6B",
+   "Total": 18690,
+   "Total Income": 802285000,
+   "Net Income": 736917000,
+   "Taxable Income": 705177000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P6C",
+   "Total": 15710,
+   "Total Income": 601551000,
+   "Net Income": 559844000,
+   "Taxable Income": 533575000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P7A",
+   "Total": 22590,
+   "Total Income": 998113000,
+   "Net Income": 914200000,
+   "Taxable Income": 881243000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P7B",
+   "Total": 17700,
+   "Total Income": 799645000,
+   "Net Income": 731403000,
+   "Taxable Income": 701436000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P7C",
+   "Total": 17070,
+   "Total Income": 678844000,
+   "Net Income": 625973000,
+   "Taxable Income": 598200000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P7E",
+   "Total": 16650,
+   "Total Income": 673110000,
+   "Net Income": 621557000,
+   "Taxable Income": 594230000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P7G",
+   "Total": 9750,
+   "Total Income": 552985000,
+   "Net Income": 503640000,
+   "Taxable Income": 492932000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P7J",
+   "Total": 3880,
+   "Total Income": 213480000,
+   "Net Income": 193867000,
+   "Taxable Income": 188645000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P7K",
+   "Total": 5380,
+   "Total Income": 323222000,
+   "Net Income": 293364000,
+   "Taxable Income": 288041000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P7L",
+   "Total": 1560,
+   "Total Income": 78787000,
+   "Net Income": 72509000,
+   "Taxable Income": 70467000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P8N",
+   "Total": 8880,
+   "Total Income": 396205000,
+   "Net Income": 364941000,
+   "Taxable Income": 353057000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P8T",
+   "Total": 3890,
+   "Total Income": 178310000,
+   "Net Income": 163717000,
+   "Taxable Income": 159193000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P9A",
+   "Total": 8090,
+   "Total Income": 350486000,
+   "Net Income": 320439000,
+   "Taxable Income": 310087000
+},
+ {
+   "Prov": {
+      "Terr": "35"
+   },
+   "FSA": "P9N",
+   "Total": 11360,
+   "Total Income": 518053000,
+   "Net Income": 475283000,
+   "Taxable Income": 460866000
+},
+ {
+   "Prov": {
+      "Terr": "TOTAL"
+   },
+   "FSA": "",
+   "Total": 10524680,
+   "Total Income": 514718000000,
+   "Net Income": 473832000000,
+   "Taxable Income": 458240000000
+}
+]
